@@ -27,7 +27,6 @@ Follow these steps to set up your own bot:
    - Read Message History
    - Embed Links
    - Use Slash Commands
-   - Manage Roles
    
    And finally invite your bot to a server
     
