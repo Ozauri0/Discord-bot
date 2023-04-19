@@ -1,4 +1,4 @@
-# Discord-bot
+#Discord-bot
 Discord bot connected with ChatGPT to answer all of your questions.
 It is coded in Python and optimized for programming questions, but can work with any question you have.
 
@@ -18,7 +18,8 @@ Follow these steps to set up your own bot:
     Go to "Bot" and click on "Add Bot". Click on "Show Token" and save it.
     Go to "OAuth" and select the following options:
     
-  In "Scopes": Bot
+  In "Scopes": 
+   - Bot
   
   In "Bot Permissions":
    - Read Messages/View Channels
