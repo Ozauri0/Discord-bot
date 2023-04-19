@@ -1,5 +1,6 @@
- #Discord-bot
-Discord bot connected with ChatGPT to answer all of your questions.
+ Discord Bot
+
+This Discord bot is connected with ChatGPT to answer all of your questions. 
 It is coded in Python and optimized for programming questions, but can work with any question you have.
 
 Follow these steps to set up your own bot:
